@@ -54,6 +54,16 @@ body {
     animation-timing-function: linear;
 }
 
+.link-container {
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 25px;
+}
 
 .grow {
     animation-name: grow;
